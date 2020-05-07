@@ -1,0 +1,672 @@
+
+               question paper- 1
+
+1What is the Price of  MER?
+ A)6.55827    B)0.987392  C)4.75394
+
+2What is the Price of  DEW?
+ A)0.302471    B)0.107926  C)277.495
+
+3What is the Price of  NEBL?
+ A)2.92771    B)3.05343  C)0.241421
+
+4What is the Price of  IDH?
+ A)0.700559    B)5.42546  C)1.8152
+
+5What is the Price of  ARDR?
+ A)8.86931    B)0.174838  C)0.188817
+
+6What is the Price of  BIX?
+ A)1.66669    B)0.129104  C)4.75394
+
+7What is the Price of  LRC?
+ A)0.149243    B)1.49965  C)0.0578744
+
+8What is the Price of  WABI?
+ A)1.66669    B)3.05343  C)0.120197
+
+9What is the Price of  SMART?
+ A)4.74624    B)0.366489  C)0.446272
+
+10What is the Price of  XBY?
+ A)1353.04    B)0.971012  C)0.164989
+
+11What is the Price of  THC?
+ A)6.55827    B)Price  C)5.42546
+
+12What is the Price of  INS?
+ A)0.169832    B)1.01283  C)0.154727
+
+13What is the Price of  QRL?
+ A)1114.15    B)0.0012923  C)0.00264689
+
+14What is the Price of  CVC?
+ A)1.60314    B)0.217893  C)2.5504
+
+15What is the Price of  TRST?
+ A)0.565912    B)0.657981  C)54.0757
+
+16What is the Price of  DGB?
+ A)0.353481    B)535.269  C)0.0242553
+
+17What is the Price of  BTX?
+ A)0.258326    B)0.0898199  C)1.4892
+
+18What is the Price of  FUEL?
+ A)0.130794    B)1.24984  C)0.203571
+
+               question paper- 2
+
+1What is the Price of  CVC?
+ A)2.53553    B)0.696328  C)25.2327
+
+2What is the Price of  DBC?
+ A)0.107926    B)0.063348  C)4.67274
+
+3What is the Price of  BTC?
+ A)0.177426    B)0.728302  C)0.0540083
+
+4What is the Price of  EVX?
+ A)0.114512    B)3.46001  C)3.05032
+
+5What is the Price of  VTC?
+ A)0.335732    B)0.0889383  C)25.2327
+
+6What is the Price of  CV?
+ A)0.700559    B)0.114512  C)0.66078
+
+7What is the Price of  SHIFT?
+ A)8.86931    B)0.724081  C)1.30563
+
+8What is the Price of  DGD?
+ A)0.204897    B)0.0239648  C)2.08165
+
+9What is the Price of  ION?
+ A)2.43749    B)0.00934922  C)0.202604
+
+10What is the Price of  QBT?
+ A)119.082    B)2.92771  C)0.000294922
+
+11What is the Price of  RISE?
+ A)3.03538    B)535.269  C)1.04546
+
+12What is the Price of  SALT?
+ A)25.9893    B)0.276641  C)0.0602724
+
+13What is the Price of  MGO?
+ A)1.16861    B)1.09599  C)107.54
+
+14What is the Price of  XCP?
+ A)0.101193    B)1.88421  C)0.203571
+
+15What is the Price of  CDT?
+ A)0.436583    B)0.00196182  C)0.812708
+
+16What is the Price of  XPA?
+ A)0.612945    B)1.77506  C)0.335732
+
+17What is the Price of  OMG?
+ A)13.0664    B)1.34187  C)0.202604
+
+18What is the Price of  BTX?
+ A)0.952797    B)3.05032  C)0.0538373
+
+               question paper- 3
+
+1What is the Price of  AION?
+ A)0.173908    B)4.54244  C)897.729
+
+2What is the Price of  KCS?
+ A)1.68333    B)0.0898199  C)5.9802e-05
+
+3What is the Price of  GVT?
+ A)1.26682    B)0.00368559  C)0.78368
+
+4What is the Price of  NAV?
+ A)0.0500555    B)0.520637  C)13.3869
+
+5What is the Price of  ADT?
+ A)0.78368    B)0.0332444  C)24.088
+
+6What is the Price of  ARK?
+ A)3.05343    B)1.09599  C)0.336968
+
+7What is the Price of  EMC2?
+ A)0.0533952    B)0.162559  C)0.129104
+
+8What is the Price of  ADA?
+ A)24.088    B)0.0292219  C)1.00543
+
+9What is the Price of  IOC?
+ A)0.0778574    B)0.971012  C)58.2838
+
+10What is the Price of  WTC?
+ A)0.221172    B)24.088  C)0.700559
+
+11What is the Price of  QSP?
+ A)0.448847    B)0.00264689  C)13.3869
+
+12What is the Price of  DAT?
+ A)0.0241528    B)58.2838  C)0.535571
+
+13What is the Price of  Symbol?
+ A)4.48229    B)0.187963  C)0.203571
+
+14What is the Price of  GAS?
+ A)5.42546    B)0.000294922  C)0.202604
+
+15What is the Price of  UTK?
+ A)0.510693    B)1.00086  C)0.156561
+
+16What is the Price of  IDH?
+ A)3.02453    B)0.00104333  C)0.510693
+
+17What is the Price of  VIA?
+ A)0.235267    B)0.063348  C)1.74996
+
+18What is the Price of  THC?
+ A)0.521365    B)17.7117  C)0.0895389
+
+               question paper- 4
+
+1What is the Price of  ETHOS?
+ A)0.155118    B)0.169832  C)0.142077
+
+2What is the Price of  IOST?
+ A)7.89499    B)0.26312  C)0.709292
+
+3What is the Price of  XDN?
+ A)0.724081    B)0.191049  C)0.129104
+
+4What is the Price of  GXS?
+ A)10.3282    B)0.177426  C)2.00777
+
+5What is the Price of  AMP?
+ A)48.5477    B)1.30563  C)1.4892
+
+6What is the Price of  GNO?
+ A)3.02453    B)0.166995  C)0.00368559
+
+7What is the Price of  FLASH?
+ A)0.270801    B)0.692023  C)3.39783
+
+8What is the Price of  IGNIS?
+ A)2.23432    B)0.0276866  C)0.261734
+
+9What is the Price of  ICX?
+ A)4.5424    B)0.565912  C)8940.74
+
+10What is the Price of  QTUM?
+ A)4.10478    B)0.156561  C)2.44961
+
+11What is the Price of  DNT?
+ A)4.78629    B)0.612945  C)2.30374
+
+12What is the Price of  SOC?
+ A)12.7556    B)0.132916  C)2.30374
+
+13What is the Price of  TIO?
+ A)0.00196182    B)0.00368559  C)0.107926
+
+14What is the Price of  RCN?
+ A)0.510693    B)0.728302  C)3.21071
+
+15What is the Price of  MDA?
+ A)0.395683    B)0.0578744  C)0.454692
+
+16What is the Price of  WABI?
+ A)0.302471    B)0.0332444  C)8.86931
+
+17What is the Price of  PPT?
+ A)2.49739    B)0.0540083  C)1.00071
+
+18What is the Price of  COLX?
+ A)0.063348    B)0.202604  C)1.00071
+
+               question paper- 5
+
+1What is the Price of  MIOTA?
+ A)0.000170096    B)8940.74  C)2.08165
+
+2What is the Price of  NXS?
+ A)1.4892    B)3.23589  C)0.308788
+
+3What is the Price of  HPB?
+ A)6.29676    B)0.0540083  C)8.86931
+
+4What is the Price of  NEO?
+ A)1114.15    B)1.04149  C)0.0401137
+
+5What is the Price of  COSS?
+ A)1.26682    B)0.0595792  C)0.312106
+
+6What is the Price of  LSK?
+ A)18.7511    B)0.579371  C)0.156561
+
+7What is the Price of  SPHTX?
+ A)6.55827    B)0.00519463  C)0.271666
+
+8What is the Price of  GUP?
+ A)1.59719    B)1.04546  C)119.082
+
+9What is the Price of  EDG?
+ A)897.729    B)0.0594398  C)0.456428
+
+10What is the Price of  MCO?
+ A)4.10478    B)1.66669  C)0.446272
+
+11What is the Price of  SNGLS?
+ A)10.1666    B)16.8894  C)0.454956
+
+12What is the Price of  TRST?
+ A)2.00956    B)0.0538373  C)0.154727
+
+13What is the Price of  COSS?
+ A)3.05032    B)0.0215937  C)0.312106
+
+14What is the Price of  TNB?
+ A)2.54632    B)1.00071  C)4.74624
+
+15What is the Price of  TRX?
+ A)0.612945    B)0.366793  C)2.30374
+
+16What is the Price of  ADA?
+ A)0.0306987    B)0.134755  C)7.89499
+
+17What is the Price of  TNB?
+ A)1.34187    B)58.2838  C)0.366793
+
+18What is the Price of  EDO?
+ A)8940.74    B)62.4938  C)0.812708
+
+               question paper- 6
+
+1What is the Price of  QLC?
+ A)4.67274    B)0.0595792  C)0.0533952
+
+2What is the Price of  NLG?
+ A)0.142077    B)0.0778574  C)107.54
+
+3What is the Price of  OCN?
+ A)0.353481    B)29.8126  C)54.0757
+
+4What is the Price of  BTC?
+ A)0.292877    B)0.185616  C)13.3581
+
+5What is the Price of  DTR?
+ A)0.889029    B)0.271666  C)28.9
+
+6What is the Price of  PRE?
+ A)4.64688    B)6.55827  C)0.0718353
+
+7What is the Price of  LEO?
+ A)0.167788    B)2.43749  C)0.130794
+
+8What is the Price of  MOT?
+ A)16.8894    B)0.66078  C)0.00934922
+
+9What is the Price of  PLR?
+ A)1.34255    B)4.48229  C)0.0712286
+
+10What is the Price of  QBT?
+ A)0.677725    B)3.23589  C)4.54244
+
+11What is the Price of  RLC?
+ A)165.179    B)5.42546  C)8940.74
+
+12What is the Price of  ANT?
+ A)0.270801    B)0.00262586  C)0.252051
+
+13What is the Price of  LA?
+ A)0.188817    B)0.00196182  C)0.217893
+
+14What is the Price of  INK?
+ A)0.181128    B)0.00104333  C)0.221172
+
+15What is the Price of  AION?
+ A)0.0898199    B)4.39713  C)0.258703
+
+16What is the Price of  MOT?
+ A)13.3869    B)0.728302  C)1.60314
+
+17What is the Price of  BOT?
+ A)6.29676    B)6.93333  C)4.78629
+
+18What is the Price of  NXS?
+ A)4.54351    B)0.0889383  C)0.0712286
+
+               question paper- 7
+
+1What is the Price of  DIME?
+ A)32.648    B)0.739717  C)3.03538
+
+2What is the Price of  IPL?
+ A)3.21071    B)0.351265  C)1.01283
+
+3What is the Price of  DCN?
+ A)1.59719    B)2.54632  C)0.181128
+
+4What is the Price of  DPY?
+ A)31.9916    B)0.000170096  C)28.53
+
+5What is the Price of  POWR?
+ A)0.955039    B)0.565912  C)6.09998
+
+6What is the Price of  SALT?
+ A)0.0578744    B)34.1099  C)0.302471
+
+7What is the Price of  VOX?
+ A)1.01283    B)0.00503942  C)0.166995
+
+8What is the Price of  DTR?
+ A)293.144    B)2.00956  C)0.724081
+
+9What is the Price of  GTO?
+ A)0.0602724    B)0.063348  C)24.088
+
+10What is the Price of  NLC2?
+ A)0.0718353    B)4.78629  C)0.0353437
+
+11What is the Price of  MED?
+ A)0.235267    B)4.67274  C)661.606
+
+12What is the Price of  XAS?
+ A)0.0895389    B)1.59719  C)0.0594398
+
+13What is the Price of  TKN?
+ A)0.0889383    B)0.00262586  C)0.188817
+
+14What is the Price of  LINK?
+ A)0.677725    B)0.0500555  C)1.01283
+
+15What is the Price of  AMP?
+ A)1.66925    B)0.0489034  C)0.00519463
+
+16What is the Price of  ZIL?
+ A)0.0451459    B)1.00086  C)3.64634
+
+17What is the Price of  AMP?
+ A)0.971012    B)0.0451459  C)4.67274
+
+18What is the Price of  DRGN?
+ A)0.312106    B)16.8894  C)0.120197
+
+               question paper- 8
+
+1What is the Price of  OST?
+ A)3.05343    B)897.729  C)0.25916
+
+2What is the Price of  FAIR?
+ A)0.0595792    B)2.43749  C)0.453654
+
+3What is the Price of  GAS?
+ A)1.66669    B)4.75394  C)0.0578744
+
+4What is the Price of  HVN?
+ A)0.0538373    B)0.0538373  C)0.78368
+
+5What is the Price of  EOS?
+ A)4.54351    B)0.271666  C)1.66669
+
+6What is the Price of  XZC?
+ A)10.1666    B)0.709292  C)0.0578744
+
+7What is the Price of  SBD?
+ A)0.557801    B)3.64634  C)266.286
+
+8What is the Price of  BAY?
+ A)0.252776    B)0.103377  C)0.223284
+
+9What is the Price of  BCH?
+ A)293.144    B)0.00262586  C)0.167788
+
+10What is the Price of  CV?
+ A)0.889029    B)81.0426  C)0.164989
+
+11What is the Price of  GRS?
+ A)0.166995    B)0.191049  C)2.49739
+
+12What is the Price of  PRE?
+ A)13.3581    B)0.120197  C)2.08165
+
+13What is the Price of  QBT?
+ A)0.535571    B)0.739717  C)0.0889383
+
+14What is the Price of  PPT?
+ A)48.5477    B)3.02453  C)1.58207
+
+15What is the Price of  GAME?
+ A)0.366793    B)0.521365  C)0.235267
+
+16What is the Price of  ICN?
+ A)0.177426    B)266.286  C)9.92927
+
+17What is the Price of  XZC?
+ A)0.335732    B)4.75394  C)0.0540083
+
+18What is the Price of  ZCL?
+ A)0.319785    B)0.154727  C)9.94735
+
+               question paper- 9
+
+1What is the Price of  XRP?
+ A)0.456428    B)0.217893  C)147.777
+
+2What is the Price of  SYS?
+ A)3.51647    B)3.62069  C)0.162559
+
+3What is the Price of  GNT?
+ A)0.677725    B)0.166995  C)0.115408
+
+4What is the Price of  NEBL?
+ A)42.5861    B)0.241421  C)3.05032
+
+5What is the Price of  TKN?
+ A)48.5477    B)2.43749  C)1.04149
+
+6What is the Price of  OCN?
+ A)0.132916    B)9.94735  C)2.92771
+
+7What is the Price of  VIA?
+ A)4.51713    B)0.657981  C)1.77506
+
+8What is the Price of  MGO?
+ A)    B)4.5424  C)0.0898199
+
+9What is the Price of  QLC?
+ A)0.0242553    B)3.03538  C)8.86931
+
+10What is the Price of  AMB?
+ A)0.258703    B)0.26312  C)0.241421
+
+11What is the Price of  IGNIS?
+ A)0.0889383    B)0.0895389  C)13.0664
+
+12What is the Price of  XVG?
+ A)8.86931    B)3.03538  C)0.142077
+
+13What is the Price of  ZEC?
+ A)2.53553    B)165.179  C)0.0401137
+
+14What is the Price of  ZSC?
+ A)0.317227    B)1.60314  C)0.026016
+
+15What is the Price of  RPX?
+ A)7.89499    B)0.217893  C)0.0540083
+
+16What is the Price of  CLOAK?
+ A)0.0814899    B)1.34255  C)0.000294922
+
+17What is the Price of  LEO?
+ A)0.154727    B)8.86931  C)3.05032
+
+18What is the Price of  IDH?
+ A)0.0978989    B)0.436583  C)1.01145
+
+               question paper- 10
+
+1What is the Price of  ZIL?
+ A)1.41094    B)1353.04  C)24.088
+
+2What is the Price of  MIOTA?
+ A)0.187963    B)0.367264  C)3.39783
+
+3What is the Price of  LRC?
+ A)0.436583    B)3.05032  C)0.724081
+
+4What is the Price of  GNT?
+ A)39.5893    B)58.2838  C)0.134755
+
+5What is the Price of  MED?
+ A)1.75138    B)0.952797  C)0.952797
+
+6What is the Price of  STORJ?
+ A)1.75138    B)4.54351  C)266.286
+
+7What is the Price of  DCT?
+ A)16.8894    B)48.5477  C)0.197434
+
+8What is the Price of  THC?
+ A)0.156561    B)58.2838  C)4.48229
+
+9What is the Price of  ZCL?
+ A)0.0895389    B)0.132508  C)0.510693
+
+10What is the Price of  NGC?
+ A)3.46001    B)0.00262586  C)0.155118
+
+11What is the Price of  VEN?
+ A)1.34255    B)0.14412  C)1.68333
+
+12What is the Price of  PHR?
+ A)0.00104333    B)0.891736  C)0.302471
+
+13What is the Price of  PART?
+ A)58.2838    B)0.0540083  C)0.0306987
+
+14What is the Price of  XVG?
+ A)31.9916    B)1.87495  C)0.66078
+
+15What is the Price of  OMG?
+ A)0.235267    B)3.05032  C)9.92927
+
+16What is the Price of  CFI?
+ A)0.00934922    B)3.05343  C)0.155118
+
+17What is the Price of  CMT?
+ A)2.23721    B)1.59719  C)0.728302
+
+18What is the Price of  REQ?
+ A)1.59719    B)0.261734  C)0.520637
+
+               question paper- 11
+
+1What is the Price of  ENJ?
+ A)0.453654    B)0.759027  C)0.107926
+
+2What is the Price of  GTO?
+ A)0.155118    B)0.335732  C)0.696328
+
+3What is the Price of  HST?
+ A)897.729    B)0.0401137  C)0.391588
+
+4What is the Price of  BTX?
+ A)1.66669    B)1.49965  C)0.0898199
+
+5What is the Price of  RCN?
+ A)0.0898199    B)495.511  C)1.00543
+
+6What is the Price of  ONION?
+ A)0.0712286    B)0.692023  C)0.395683
+
+7What is the Price of  USDT?
+ A)9.92927    B)0.366489  C)3.20423
+
+8What is the Price of  XSPEC?
+ A)0.368114    B)1.59719  C)1.20127
+
+9What is the Price of  BAY?
+ A)277.495    B)1114.15  C)29.8126
+
+10What is the Price of  PPT?
+ A)0.387556    B)0.0602724  C)3.39783
+
+11What is the Price of  LEND?
+ A)    B)62.4938  C)0.362285
+
+12What is the Price of  BTCD?
+ A)535.269    B)0.103377  C)0.312106
+
+13What is the Price of  ZIL?
+ A)5.44119    B)162.937  C)1.41094
+
+14What is the Price of  IDH?
+ A)25.2327    B)0.0778574  C)0.132916
+
+15What is the Price of  PPT?
+ A)0.579371    B)107.54  C)0.00519463
+
+16What is the Price of  MED?
+ A)0.78368    B)0.336968  C)16.4898
+
+17What is the Price of  MGO?
+ A)293.144    B)0.405436  C)1.20127
+
+18What is the Price of  OCN?
+ A)0.0644167    B)28.53  C)116.906
+
+               question paper- 12
+
+1What is the Price of  ARDR?
+ A)1.16861    B)0.011825  C)1.00071
+
+2What is the Price of  FUEL?
+ A)0.00104333    B)2.5504  C)495.511
+
+3What is the Price of  PPP?
+ A)0.276641    B)25.2327  C)0.0602724
+
+4What is the Price of  IGNIS?
+ A)0.692023    B)0.197434  C)0.317227
+
+5What is the Price of  AMB?
+ A)0.521365    B)107.54  C)4.798
+
+6What is the Price of  UBQ?
+ A)0.169832    B)1.48076  C)1.59736
+
+7What is the Price of  INK?
+ A)3.62069    B)165.179  C)0.132916
+
+8What is the Price of  1ST?
+ A)0.0538373    B)28.9  C)39.5893
+
+9What is the Price of  PHR?
+ A)1.04149    B)0.387556  C)1353.04
+
+10What is the Price of  EDG?
+ A)5.42546    B)54.0757  C)147.777
+
+11What is the Price of  XSPEC?
+ A)3.69164e-05    B)2.30374  C)1.77506
+
+12What is the Price of  ORME?
+ A)1.00071    B)29.8126  C)0.191049
+
+13What is the Price of  ICN?
+ A)0.132916    B)0.366793  C)1.00071
+
+14What is the Price of  LINK?
+ A)1.58207    B)0.0215937  C)4.75394
+
+15What is the Price of  AST?
+ A)897.729    B)13.0664  C)0.177426
+
+16What is the Price of  XVG?
+ A)0.377904    B)0.252051  C)16.4898
+
+17What is the Price of  MIOTA?
+ A)4.5424    B)0.759027  C)4.54244
+
+18What is the Price of  ION?
+ A)2.53553    B)0.0489034  C)0.0578744
